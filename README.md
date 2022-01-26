@@ -1,0 +1,1 @@
+This is my first tiny website project. During this exercise I learned how to create the basic website structure with directories and files, utilized my knowledge of git workflow and uploaded the project to my github repository.
